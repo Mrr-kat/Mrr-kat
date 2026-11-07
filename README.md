@@ -56,11 +56,4 @@ I combine hands-on software development experience from my technical background 
 
 </div>
 
----
 
-### GitHub Stats / Estadísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
