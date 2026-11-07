@@ -4,9 +4,6 @@
 
 **Software Programming Technician (SENA) | Systems & Computing Engineering Student**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E69?style=for-the-badge&logo=react&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
 
 </div>
 
@@ -26,7 +23,6 @@ Combino la experiencia práctica en desarrollo de software adquirida en mi forma
   - Técnico en Programación de Software – **SENA**
   - Estudiante de Ingeniería de Sistemas y Computación
 - **Actualmente enfocado en:** Desarrollo de aplicaciones web Full-Stack, gestión de bases de datos e infraestructura de redes.
-- **Contacto:** ¿Tienes una propuesta laboral, proyecto o colaboración? ¡Conectemos por LinkedIn o correo electrónico!
 
 </details>
 
@@ -43,7 +39,6 @@ I combine hands-on software development experience from my technical background 
   - Software Programming Technician – **SENA**
   - Systems & Computing Engineering Student
 - **Current Focus:** Full-Stack web applications, database administration, and networking.
-- **Get in touch:** Open for job opportunities, projects, and tech collaborations. Reach out via LinkedIn or email!
 
 </details>
 
