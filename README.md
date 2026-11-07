@@ -1,9 +1,71 @@
-<h3 align="center">Hi 👋, I'm Compota</h3>
-<h3 align="center">A passionate frontend and backend developer from Colombia</h3>
+<div align="center">
 
+# Hi 👋, I'm Mr_kat
 
-<p align="left">
-</p>
+**Software Programming Technician (SENA) | Systems & Computing Engineering Student**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E69?style=for-the-badge&logo=react&logoColor=white)](https://tu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
+
+</div>
+
+---
+
+### 🌐 Language / Idioma
+<details open>
+<summary><b>🇪🇸 Español</b></summary>
+
+<br />
+
+¡Hola! Soy **Mr_kat**, **Técnico en Programación de Software (SENA)** y actualmente **estudiante de Ingeniería de Sistemas y Computación** en Colombia 🇨🇴. 
+
+Combino la experiencia práctica en desarrollo de software adquirida en mi formación técnica con la fundamentación analítica, arquitectónica y de redes de la ingeniería. Apasionado por la creación de soluciones eficientes, desarrollo web Full-Stack y metodologías de trabajo ágiles.
+
+- **Formación:**
+  - Técnico en Programación de Software – **SENA**
+  - Estudiante de Ingeniería de Sistemas y Computación
+- **Actualmente enfocado en:** Desarrollo de aplicaciones web Full-Stack, gestión de bases de datos e infraestructura de redes.
+- **Contacto:** ¿Tienes una propuesta laboral, proyecto o colaboración? ¡Conectemos por LinkedIn o correo electrónico!
+
+</details>
+
+<details>
+<summary><b>🇺🇸 English</b></summary>
+
+<br />
+
+Hi! I'm **Mr_kat**, a **Software Programming Technician (SENA)** and currently a **Systems and Computing Engineering student** based in Colombia 🇨🇴.
+
+I combine hands-on software development experience from my technical background with engineering fundamentals in system architecture, network infrastructure, and problem-solving. Passionate about building efficient applications and Full-Stack web solutions.
+
+- **Education:**
+  - Software Programming Technician – **SENA**
+  - Systems & Computing Engineering Student
+- **Current Focus:** Full-Stack web applications, database administration, and networking.
+- **Get in touch:** Open for job opportunities, projects, and tech collaborations. Reach out via LinkedIn or email!
+
+</details>
+
+---
+
+### 🛠️ Languages & Technologies / Lenguajes y Herramientas
+
+<div align="center">
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Languages / Lenguajes** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> |
+| **Frameworks & AI** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> |
+| **Databases & Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> |
+
+</div>
+
+---
+
+### GitHub Stats / Estadísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
